@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">HackathonFirst</string>
+    <string name="app_name">My Application</string>
+    <string name="emotion_prompt">Choose your emotion</string>
+    <string-array name="emotions">
+        <item>Fun Night with the Kids</item>
+        <item>Date Night</item>
+        <item>Late Night</item>
+        <item>Feeling Unhealthy</item>
+    </string-array>
 </resources>

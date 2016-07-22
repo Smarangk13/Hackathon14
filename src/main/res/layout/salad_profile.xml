@@ -40,5 +40,12 @@
         android:text="Nutritional Information"
         android:id="@+id/textView4" />
 
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Creator"
+        android:id="@+id/creator"
+        android:layout_gravity="center_horizontal" />
+
 
 </LinearLayout>
